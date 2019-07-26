@@ -1,0 +1,4 @@
+[0.0.1a] - 2019-07-26
+DODANO: Umiejętności
+DODANO: NPC do Whetstone
+DODANO: Prace/Questy w Whetstone
